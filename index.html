@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Railway Enquiry System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🚆 Railway Enquiry System</h1>
+
+    <div class="section">
+      <h2>Search Trains</h2>
+      <input type="text" id="source" placeholder="Enter source" />
+      <input type="text" id="destination" placeholder="Enter destination" />
+      <button onclick="searchTrains()">Search</button>
+    </div>
+
+    <div class="section">
+      <h2>All Trains</h2>
+      <div id="trainList"></div>
+    </div>
+
+    <div class="section">
+      <h2>Book Ticket</h2>
+      <input type="text" id="passengerName" placeholder="Passenger Name" />
+      <input type="number" id="trainNo" placeholder="Train Number" />
+      <button onclick="bookTicket()">Book Ticket</button>
+    </div>
+
+    <div class="section">
+      <h2>Booked Tickets</h2>
+      <div id="bookingList"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
