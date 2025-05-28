@@ -30,5 +30,5 @@ The Railway Enquiry System is a user-friendly application designed to help passe
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests.
 
 ## Author
-- Nagina Dhana Sai Sri Vyshnavi
-- Your GitHub Profile: [https://github.com/VYSHNAVINAGINA26](https://github.com/VYSHNAVINAGINA26)
+- Merugu Dheeraj
+- Your GitHub Profile: [https://github.com/minnu0220](https://github.com/minnu0220)
